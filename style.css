@@ -38,7 +38,7 @@
     width: 120px;
     margin: 17px 10px 11px 15px;
     text-align: center;
-    font: Regular 24px/24px Helvetica Neue;
+    font: 24px/24px Helvetica Neue;
     letter-spacing: 0px;
     color: #2EB738;
     opacity: 1;
@@ -47,8 +47,9 @@
 .box-title {
     height: 310px;
     width: 280px;
-    border: 1px solid black;
-    margin: 66.5px 0px 0px 40px;
+    border-top: 1px solid #2EB738;
+    border-bottom: 1px solid #2EB738;
+    margin: 80px 0px 0px 40px;
 }
 
 .caption {
@@ -57,7 +58,7 @@
     border: 1px solid black;
     margin-top: 100px;
     text-align: center;
-    font: Medium 56px/84px PingFang TC;
+    font: 56px/84px Helvetica Neue;
     letter-spacing: 0px;
     color: #2EB738;
     opacity: 1;
@@ -68,7 +69,7 @@
     width: 278px;
     border: 1px solid black;
     text-align: center;
-    font: Regular 24px/36px Helvetica Neue;
+    font: 24px/36px Helvetica Neue;
     letter-spacing: 0px;
     color: #2EB738;
     opacity: 1;
