@@ -36,7 +36,7 @@
 .sub-box {
     height: 33px;
     width: 120px;
-    margin: 17px 10px 11px 15px;
+    margin: 17px 10px 11px 35px;
     text-align: center;
     font: 24px/24px Helvetica Neue;
     letter-spacing: 0px;
@@ -55,7 +55,6 @@
 .caption {
     height: 78px;
     width: 280px;
-    border: 1px solid black;
     margin-top: 100px;
     text-align: center;
     font: 56px/84px Helvetica Neue;
@@ -67,7 +66,6 @@
 .english {
     height: 28px;
     width: 278px;
-    border: 1px solid black;
     text-align: center;
     font: 24px/36px Helvetica Neue;
     letter-spacing: 0px;
